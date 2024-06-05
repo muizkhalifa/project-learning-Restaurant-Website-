@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+}
+:root {
+--green-1: #26643b;
+--green-2: #a2de96;
+--Lightgreen-1: #d6e5d8;
+--Lightgreen-2: #f5fcf4;
+--black-1: #3b413a;
+--black-2: #3f3c3c;
+--black-3: #5b6359;
+--white-1: #e8e8e8;
+}
+body{
+    background-color: var(--Lightgreen-2);
+    overflow-x: hidden;
+}
+section{
+    padding: 100px 0;
+}
